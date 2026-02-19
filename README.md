@@ -4,9 +4,6 @@ I’m focused on building a strong career in Data Analytics with hands-on experi
 I enjoy working with real-world datasets, cleaning messy data, and turning numbers into meaningful business insights.
 
 Data Analysis & Cleaning: Python, Pandas, Excel
-
 Data Visualization: Power BI (Dashboards, DAX, Data Modeling)
-
 Databases: SQL (Beginner → Intermediate)
-
 Other: Data Understanding, Reporting, Business Insights
